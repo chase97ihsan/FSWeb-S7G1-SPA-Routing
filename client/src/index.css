@@ -14,7 +14,12 @@ body {
   cursor: pointer;
   position: relative;
   margin: 1rem auto;
+  
 }
+.movie-list a{
+  text-decoration: none;
+}
+
 
 .movie-director {
   padding: 4px 0;
